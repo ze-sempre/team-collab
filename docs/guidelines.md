@@ -1,0 +1,1 @@
+usar commits curtos e claros
